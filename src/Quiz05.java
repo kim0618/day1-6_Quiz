@@ -28,6 +28,7 @@ public class Quiz05 {
 			}
 		}*/
 		
+		// 우리집, 회사 등록 후 보기
 		String home="",com="";
 		int a;
 		while(true) {
